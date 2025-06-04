@@ -9,7 +9,7 @@ Navigating this evolving market requires a clear understanding of which roles, s
 
 Understanding the dynamics of the job market is crucial for both job seekers aiming to align their skills with market demands and employers seeking to attract top talent.
 This analysis focus is on uncovering key insights into the remote data analytics sector.
-To support these insights, a set of SQL queries was developed to systematically extract and analyze relevant data points from the dataset. These queries provide a transparent and replicable method for exploring market trends, skill valuations, and educational requirements in the remote data analytics job market.
+To support these insights, a set of SQL queries was developed to systematically extract and analyze relevant data points from the dataset. These queries provide a transparent and replicable method for exploring market trends, skill valuations, and educational requirements in the remote data analytics job market...
 
 
 The data originates from Luke Barousse’s comprehensive SQL course, which can be found at (https://lukebarousse.com/sql). This dataset is rich with valuable insights covering a wide range of topics, including various job titles, salary information, geographical locations, and the essential skills required for those positions.
@@ -30,7 +30,7 @@ For my deep dive into the data analyst job market, I leveraged a set of powerful
 - **PostgreSQL:** My preferred database management system, well-suited for handling job posting data efficiently.
 - **Visual Studio Code:** My primary workspace for managing the database and executing SQL queries seamlessly.
 - **Git & GitHub:** Vital for version control and collaboration, allowing me to track progress and share my SQL scripts and findings effectively.
-- **Python:** This is my go-to programming language for data visualization, as it seamlessly integrates into my workflow and provides a wide range of powerful libraries and tools that make it easy to create clear, informative, and visually compelling representations of data.
+- **Python:** This is my go-to programming language for data visualization, as it seamlessly integrates into my workflow and provides a wide range of powerful libraries and tools that make it easy to create clear, informative, and visually compelling representations of data...
 
 
 # THE ANALYSIS
