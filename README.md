@@ -3,7 +3,7 @@
 This analysis examines the data job market using a 2023 dataset from a leading job site. It focuses on remote data analytics roles and highlights the highest paying jobs, top-paying skills, most in-demand skills, educational qualification, and where high demand aligns with high salaries.
 Navigating this evolving market requires a clear understanding of which roles, skills, and qualifications are most valued by employers.
 
-🔍 Interested in the SQL queries? Take a look here: [SQL_Project](/SQL_Project/)
+🔍 Interested in the SQL queries? Take a look here: [SQL_Project](/SQL_Project)
 
 # BACKGROUND
 
@@ -117,7 +117,7 @@ ORDER BY salary_year_avg DESC
 - **Cloud and Version control:** A mix of cloud (e.g., Azure) and version control (e.g., Bitbucket) skills appear, indicating a broader tech stack requirement in modern data roles.
 
 #### TOP 10 IN-DEMAND SKILLS FOR DATA ANALYST ROLES (2023)
-![Top Paying Job skills](assets\2_top_paying_job_skills.jpg)
+![Top Paying Job skills](/assets/2_top_paying_job_skills.jpg)
 *A bar chart I created using Python to show the top 10 most commonly required skills for these high-paying roles.*
 
 ### 3. Top 10 most in demand skills for data analyst positions overall?
